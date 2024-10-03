@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /script/
+Disallow: /old01072016/
+
+User-agent: YandexImages 
+Allow: /img/
+Allow: /imgages/
+
+host: plita.gkbts.ru
