@@ -1,6 +1,12 @@
 @media only screen and (max-width: 801px) {
     body {
+        min-width: 100%;
+    }
+    .container {
         width: 100%;
+        min-width: unset;
+        overflow: hidden;
+        float: left
     }
     .top-row {
         display: block;
