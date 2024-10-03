@@ -4,9 +4,9 @@
     }
     .container {
         width: 100%;
-        min-width: unset;
+        max-width: 801px;
         overflow: hidden;
-        float: left
+        float: unset;
     }
     .top-row {
         display: block;
